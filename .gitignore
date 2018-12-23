@@ -1,6 +1,5 @@
 # ignore all logs
 *.log
-/e2e
 /node_modules
 # OS generated files #
 ######################
